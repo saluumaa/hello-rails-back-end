@@ -1,6 +1,6 @@
 class Api::MessagesController < ApplicationController
-    def index
-        @messages = Message.order('RANDOM()').limit(1)
-        render json: @messages
-    end
+  def index
+    @message = Message.order('RANDOM()').limit(1)
+    render json: @message
+  end
 end
