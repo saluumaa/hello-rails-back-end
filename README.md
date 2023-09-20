@@ -6,7 +6,6 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello-Rails-Back-End ](#-hello-rails-back-end)
-  -[🛠 React Front End Link ](#-react-link-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
@@ -27,7 +26,6 @@
 
 > This is a hello rails back end app that displays a greeting message randomly.
 
-## 🛠 React Front End Link <a name="react-link"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,6 +76,8 @@ To run the project, execute the following command:
 ```sh
   rails s
 ```
+
+After this step please [run React App](https://github.com/saluumaa/hello-react-front-end) to see the result.
 
 ### Run tests
 
